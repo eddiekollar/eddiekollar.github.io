@@ -2,9 +2,9 @@
 
 title:            Mind Stuff
 locale:           en_US
-url:              http://localhost:4000
+#url:              http://localhost:4000
 #url:              http://eddiekollar.github.io
-#url:              http://eddiekollar.com
+url:              http://eddiekollar.com
 
 
 # Jekyll configuration
