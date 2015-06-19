@@ -3,22 +3,22 @@ layout: writing
 title: "Discovering my path to creating"
 modified:
 categories: [writing]
-excerpt:
+excerpt: "Writing has been on my list for the last four years."
 tags: [writing]
 comments: true
-share: true
 image:
   feature: ready_set.png
+  credit: Lucia Garman Burmester
 ---
 
-Writing has been on my list for the last four years. Well they were actually several lists, all being some permutation of the list of “Most Ambitions List of Things To Do”. Over the years few have been actualized. Most of what I listed just rest on those pages and taunted me each time I happen across them. I felt taunted because I thought of myself as a failure.
+Writing has been on my list for the last four years. Well they were actually several lists, all being some permutation of the list of “Most Ambitions List of Things To Do”. Over the years few have been actualized. Most of what I listed just rested on those pages and taunted me each time I happen across them. I felt taunted because I thought of myself as a failure.
 <br>
 <br>
 This is not my first attempt at writing a blog post. Two years ago I setup a blog and wrote one post. It was short and philosophical. The theme was based around Lao Tzu’s quote: 
 
 >“The journey of a thousand miles begins with a single step.” 
 
-That was my first step and only step until now. A false start.
+I shared it with one person. That was my first step and only step until now. A false start.
 <br>
 <br>
 I seemed to have missed the point of what Lao Tzu was alluding to. The journey is an accumulation of many small distances. Each sentence, paragraph, and post shared is that small distance. Instead of making these steps, I made excuses.
