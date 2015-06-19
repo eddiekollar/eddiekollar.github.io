@@ -8,3 +8,7 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 images/*.xcf
+_posts/2011*
+_posts/2012*
+_posts/2013*
+_posts/2014*
