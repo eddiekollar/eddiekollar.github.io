@@ -242,6 +242,13 @@ $button-size: 1.5rem;
 			@include grid(12,4.5);
 		}
 	}
+	.archive-wrap {
+			margin: 0 2em;
+			@include fill-parent;
+			.content {
+				@include fill-parent;
+			}
+		}
 }
 
 /* Index listing specific styling */

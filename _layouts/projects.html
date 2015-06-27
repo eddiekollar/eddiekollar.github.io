@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="writing-index">
+<body class="projects">
 
 {% include _browser-upgrade.html %}
 
@@ -29,12 +29,16 @@
 {% endif %}
 
 <div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <div id="index">
+  <div class="archive-wrap">
+    <div class="tiles">
+    {% for post in site.categories.projects %}
+      {% include project-grid.html %}
+    {% endfor %}
+    </div><!-- /.tiles -->
+  </div><!-- /.archive-wrap -->
+  <!--<div id="index">
     <h1>{{ page.title }}</h1>
-    {% for post in site.categories.writing %}  
+    {% for post in site.categories.projects %}  
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
